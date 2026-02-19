@@ -23,10 +23,10 @@ RenderSettings:
   m_AmbientSkyColor: {r: 0.212, g: 0.227, b: 0.259, a: 1}
   m_AmbientEquatorColor: {r: 0.114, g: 0.125, b: 0.133, a: 1}
   m_AmbientGroundColor: {r: 0.047, g: 0.043, b: 0.035, a: 1}
-  m_AmbientIntensity: 1
+  m_AmbientIntensity: 1.66
   m_AmbientMode: 0
   m_SubtractiveShadowColor: {r: 0.42, g: 0.478, b: 0.627, a: 1}
-  m_SkyboxMaterial: {fileID: 10304, guid: 0000000000000000f000000000000000, type: 0}
+  m_SkyboxMaterial: {fileID: 2100000, guid: 40a90acb03db6b345945238c71d78e27, type: 2}
   m_HaloStrength: 0.5
   m_FlareStrength: 1
   m_FlareFadeSpeed: 3
@@ -11280,19 +11280,19 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 2291565245079219454, guid: 8db62fc1289cc19478a4fdbf4998f4eb, type: 3}
       propertyPath: m_LocalRotation.w
-      value: 0.5
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 2291565245079219454, guid: 8db62fc1289cc19478a4fdbf4998f4eb, type: 3}
       propertyPath: m_LocalRotation.x
-      value: 0.5
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 2291565245079219454, guid: 8db62fc1289cc19478a4fdbf4998f4eb, type: 3}
       propertyPath: m_LocalRotation.y
-      value: 0.5
+      value: 0.7071068
       objectReference: {fileID: 0}
     - target: {fileID: 2291565245079219454, guid: 8db62fc1289cc19478a4fdbf4998f4eb, type: 3}
       propertyPath: m_LocalRotation.z
-      value: -0.5
+      value: -0.7071068
       objectReference: {fileID: 0}
     - target: {fileID: 2291565245079219454, guid: 8db62fc1289cc19478a4fdbf4998f4eb, type: 3}
       propertyPath: m_LocalEulerAnglesHint.x
@@ -11300,7 +11300,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 2291565245079219454, guid: 8db62fc1289cc19478a4fdbf4998f4eb, type: 3}
       propertyPath: m_LocalEulerAnglesHint.y
-      value: 90
+      value: 180
       objectReference: {fileID: 0}
     - target: {fileID: 2291565245079219454, guid: 8db62fc1289cc19478a4fdbf4998f4eb, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
