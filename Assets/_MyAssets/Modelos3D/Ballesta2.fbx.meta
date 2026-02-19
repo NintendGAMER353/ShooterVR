@@ -1,9 +1,5 @@
 fileFormatVersion: 2
-<<<<<<<< HEAD:Assets/_MyAssets/Modelos3D/Ballesta.fbx.meta
-guid: 87e2b19d47c7c444d94306ac2aeb687d
-========
-guid: e42caffd10173cf4daa3a28cb9ebf37d
->>>>>>>> 4cee0d3ed20457b2c64437963ea27c2bcefbfe92:Assets/_MyAssets/Modelos3D/Ballesta2.fbx.meta
+guid: 8faa54a60222e1d429f0026fc5b626b1
 ModelImporter:
   serializedVersion: 22200
   internalIDToNameTable: []
