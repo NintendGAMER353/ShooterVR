@@ -4,7 +4,7 @@ public class DianaController : MonoBehaviour
 {
     public Vector3 InitialPos;
     public Vector3 FinalPos;
-    public float speed = 2f;
+    public float speed = 1.5f;
 
     private bool movingUp = true;
     private float timer = 0f;
