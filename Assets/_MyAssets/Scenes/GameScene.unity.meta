@@ -1,7 +1,14 @@
 fileFormatVersion: 2
-guid: 99c9720ab356a0642a771bea13969a05
+guid: 679e28dd92e786342b7944447228f70c
 DefaultImporter:
   externalObjects: {}
   userData: 
   assetBundleName: 
   assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 138810
+  packageName: Grass Flowers Pack Free
+  packageVersion: 1.1
+  assetPath: Assets/ALP_Assets/GrassFlowersFREE/Demo/DemoGrassFlowers.unity
+  uploadId: 850628

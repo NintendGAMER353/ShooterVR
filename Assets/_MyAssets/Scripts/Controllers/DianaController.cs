@@ -10,12 +10,6 @@ public class DianaController : MonoBehaviour
     private float timer = 0f;
     private bool waiting = false;
 
-    private void Start()
-    {
-        // Guardo la posición inicial y final de la diana
-        InitialPos = new Vector3(transform.position.x, -0.959999979f, transform.position.z);
-        FinalPos = new Vector3(transform.position.x, 1.12f, transform.position.z);
-    }
 
     private void Update()
     {
